@@ -1,0 +1,5 @@
+put header "https://cdn.jsdelivr.net/gh/prajnaHT/" in front of source
+just like 
+
+https://cdn.jsdelivr.net/gh/prajnaHT/cscdn/img/test.png
+
